@@ -2,7 +2,6 @@
 import os
 
 import dotenv
-import numpy as np
 from openai import OpenAI
 
 dotenv.load_dotenv()
