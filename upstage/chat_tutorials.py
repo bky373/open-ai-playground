@@ -60,3 +60,10 @@ while True:
 
     # Step 5: Ensure the chat history doesn't exceed the size limit.
     chat_history = chat_history[:history_size]
+
+##################################################
+# User:  Hi, SOLAR!
+# SOLAR: Hello! How can I help you today?
+# User:  What did I say?
+# SOLAR: You said "Hi, SOLAR!"
+##################################################
